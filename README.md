@@ -1,11 +1,5 @@
 ﻿# Real-Time Emotion Recognizer
-### **File Description: `emotions.py`**
 
-The `emotions.py` script implements a **real-time emotion recognizer** using computer vision and deep learning techniques. It leverages the webcam to capture live video frames, analyzes them for facial emotions, and displays the detected emotion on the video feed.
-
----
-
-### **Key Features:**
 
 1. **Real-Time Emotion Recognition**:
    - Utilizes the DeepFace library to analyze emotions in real-time.
